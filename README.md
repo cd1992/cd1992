@@ -2,9 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Metasploitable 2 Box Hacking Prohect (Sentienel) [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
-- <b>Failed RDP Map in Azure (Sentienel)</b>
-  - 
+- <b>Metasploitable 2 Box Hacking Prohect (Sentinel) [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
+
+<h2>📺 Certifications</h2>
+
+- <b>CompTIA A+</b>
+- <b>CompTIA Security+</b>
+- <b>Antisyphon Active Defense and Cyber Defense</b>
+- <b>Antisyphon SOC Core Skills</a></b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
