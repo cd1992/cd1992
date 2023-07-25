@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Metasploitable 2 Box Hacking Prohect (Sentinel) [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
-- <b>Failed RDP Bruteforce Map in Azure [https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
+- <b>Failed RDP Bruteforce Map in Azure [https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure]<a href="https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure/blob/main/1687880017951.jpg">Visual Attack Map</a></b>
 - <b>Create Shortcut Buttons for Wireshark [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
 - <b>Dumpcap Packet Capture [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
 
