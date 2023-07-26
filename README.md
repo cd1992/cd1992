@@ -4,8 +4,8 @@
 
 - <b>Metasploitable 2 Box Hacking Prohect (Sentinel) [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
 - <b>Failed RDP Bruteforce Map in Azure [https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure]<a href="https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure/blob/main/1687880017951.jpg">Visual Attack Map</a></b>
-- <b>Create Shortcut Buttons for Wireshark [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
-- <b>Dumpcap Packet Capture [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
+- <b>Create Shortcut Buttons for Wireshark [https://github.com/cd1992/create_shortcut_buttons_for_wireshark]</b>
+- <b>Dumpcap Packet Capture [https://github.com/cd1992/dumpcap_packet_capture]<a href="https://www.youtube.com/watch?v=TPzZ-lo97mk">Video</a></b>
 
 <h2>📺 Certifications</h2>
 
@@ -30,9 +30,9 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@ATL201000
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/curtis-dirton-41523a158/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
