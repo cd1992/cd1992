@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Metasploitable 2 Box Hacking Prohect (Sentinel) [https://github.com/cd1992/Metasploitable-2-]<a href="https://github.com/cd1992/Metasploitable-2-/blob/SSH-Port-Vulnerabilities/bandicam%202023-06-21%2020-29-09-386.mp4">Video</a></b>
+- <b>Metasploitable 2 Box Hacking Prohect (Sentinel) [https://github.com/cd1992/Metasploitable-2-]<a href="https://youtu.be/6gdHM36wndU">Video</a></b>
 - <b>Failed RDP Bruteforce Map in Azure [https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure]<a href="https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure/blob/main/1687880017951.jpg">Visual Attack Map</a></b>
 - <b>Create Shortcut Buttons for Wireshark [https://github.com/cd1992/create_shortcut_buttons_for_wireshark]</b>
 - <b>Dumpcap Packet Capture [https://github.com/cd1992/dumpcap_packet_capture]<a href="https://www.youtube.com/watch?v=TPzZ-lo97mk">Video</a></b>
@@ -14,13 +14,11 @@
 - <b>Antisyphon Active Defense and Cyber Defense</b>
 - <b>Antisyphon SOC Core Skills</a></b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Hobbies</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Basketball
+- Reading
+- Gaming
 
 <h2> 🤳 Connect with me:</h2>
 
