@@ -6,7 +6,7 @@
 - <b>Failed RDP Bruteforce Map in Azure [https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure]<a href="https://github.com/cd1992/Failed_RDP_Bruteforce_Map_in_Azure/blob/main/1687880017951.jpg">Visual Attack Map</a></b>
 - <b>Create Shortcut Buttons for Wireshark [https://github.com/cd1992/create_shortcut_buttons_for_wireshark]</b>
 - <b>Dumpcap Packet Capture [https://github.com/cd1992/dumpcap_packet_capture]<a href="https://www.youtube.com/watch?v=TPzZ-lo97mk">Video</a></b>
-- <b>Error Status Dashboard in Splunk [https://github.com/cd1992/dumpcap_packet_capture]<a href="https://www.youtube.com/watch?v=S3_XGzwsMfk">Video(Part 1)</a><a href="https://www.youtube.com/watch?v=tCWFMH2LMtg">Video(Part 2)</a></b>
+- <b>Error Status Dashboard in Splunk [https://github.com/cd1992/error_status_dasboard_in_splunk]<a href="https://www.youtube.com/watch?v=S3_XGzwsMfk">Video(Part 1)</a><a href="https://www.youtube.com/watch?v=tCWFMH2LMtg">Video(Part 2)</a></b>
 
 <h2>📺 Certifications</h2>
 
