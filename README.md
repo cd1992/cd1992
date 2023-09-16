@@ -7,9 +7,11 @@
 - <b>Create Shortcut Buttons for Wireshark [https://github.com/cd1992/create_shortcut_buttons_for_wireshark]</b>
 - <b>Dumpcap Packet Capture [https://github.com/cd1992/dumpcap_packet_capture]<a href="https://www.youtube.com/watch?v=TPzZ-lo97mk">Video</a></b>
 - <b>Error Status Dashboard in Splunk [https://github.com/cd1992/error_status_dasboard_in_splunk]<a href="https://www.youtube.com/watch?v=S3_XGzwsMfk">Video(Part 1)</a><a href="https://www.youtube.com/watch?v=tCWFMH2LMtg">Video(Part 2)</a></b>
+- <b>Active Directory Environment [https://github.com/cd1992/error_status_dasboard_in_splunk]<a href="https://youtu.be/9f_ojIL6fEE">Video(Part 1)</a><a href="https://youtu.be/-POG1IXZ-hQ">Video(Part 2)</a></b>
 
 <h2>📺 Certifications</h2>
 
+- <b>Network+</b>
 - <b>CompTIA A+</b>
 - <b>CompTIA Security+</b>
 - <b>Antisyphon Active Defense and Cyber Defense</b>
